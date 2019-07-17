@@ -1,0 +1,13 @@
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\bin\Release\SpecificEnergyCalculator.exe.config
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\bin\Release\SpecificEnergyCalculator.exe.manifest
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\bin\Release\SpecificEnergyCalculator.application
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\bin\Release\SpecificEnergyCalculator.exe
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\bin\Release\SpecificEnergyCalculator.pdb
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.formCalculator.resources
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.Properties.Resources.resources
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.csproj.GenerateResource.Cache
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.exe.manifest
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.application
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.exe
+C:\Users\Home1\Desktop\SpecificEnergy\SpecificEnergyCalculator 14Mar2013\SpecificEnergyCalculator\obj\Release\SpecificEnergyCalculator.pdb
